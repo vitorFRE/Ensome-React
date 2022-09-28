@@ -1,0 +1,157 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  --Primary: #185CFF;
+  --Secondry: #002B4E;
+  --Tertiary: #F0F9FF;
+  --Helper-blue-1: #194060;
+  --Helper-blue-2: #607D94;
+  --Helper-blue-3: #C9DCEC;
+  --Black: #292D33;
+  --Grey: #9497A1;
+  --Background: #F1F6FA;
+  --Red-error: #C14040;
+}
+
+h1,h2,h3,p {
+  margin: 0px;
+}
+
+ul,li {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1100px;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+/* Tipografia */
+
+.title-exbold-1 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 46px;
+line-height: 60px;
+letter-spacing: -0.015em;
+}
+
+.title-exblod-2 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 38px;
+line-height: 56px;
+letter-spacing: -0.015em;
+}
+
+.title-exblod-3 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 40px;
+letter-spacing: -0.015em;
+}
+
+.title-bold-4 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: -0.015em;
+}
+
+.title-bold-5 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: -0.015em;
+}
+
+.title-bold-6 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: -0.015em;
+}
+
+.title-semi-7 {
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: -0.01em;
+}
+
+.title-medium-7 {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  }
+
+.para-regular-1 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 33px;
+  letter-spacing: -0.015em;
+  }
+
+.para-regular-2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: -0.015em;
+  }
+
+.para-bold-2 {
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: -0.015em;
+}
+
+.para-regular-3 {
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: -0.015em;
+}
+
+.para-semi-3 {
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: -0.015em;
+}
