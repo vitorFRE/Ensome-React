@@ -1,1 +1,7 @@
-className={`${ mobile ? styles.header_nav_mobile : styles.header_nav } ${mobileMenu && styles.nav_mobile_active}`}
+git checkout -b nome // criar branch
+run
+git merge main
+git push
+git checkout main // trocar branch para main
+git pull
+git branch -d nome //deletar branch
