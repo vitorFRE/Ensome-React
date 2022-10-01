@@ -11,6 +11,7 @@
 }
 
 body {
+  height: 2300px;
   margin: 0px;
   --Primary: #185CFF;
   --Secondry: #002B4E;
