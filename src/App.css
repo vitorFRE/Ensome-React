@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap');
 
 .container {
-  max-width: 1100px;
+  max-width: 1200px;
   padding: 0 1rem;
   margin: 0 auto;
 }
@@ -11,7 +11,7 @@
 }
 
 body {
-  height: 2300px;
+  height: 3300px;
   margin: 0px;
   --Primary: #185CFF;
   --Secondry: #002B4E;
