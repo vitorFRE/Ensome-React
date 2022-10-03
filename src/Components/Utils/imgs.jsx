@@ -7,6 +7,8 @@ import logo6 from '../../assets/logo_6.png';
 import v_icon1 from '../../assets/vantagens_icon1.svg';
 import v_icon2 from '../../assets/vantagens_icon2.svg';
 import v_icon3 from '../../assets/vantagens_icon3.svg';
+import q1 from '../../assets/q1.png';
+import q2 from '../../assets/q2.png';
 const imagens = {
   logo1,
   logo2,
@@ -17,6 +19,8 @@ const imagens = {
   v_icon1,
   v_icon2,
   v_icon3,
+  q1,
+  q2,
 };
 
 export default imagens;
