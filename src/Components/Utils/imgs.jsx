@@ -9,6 +9,12 @@ import v_icon2 from '../../assets/vantagens_icon2.svg';
 import v_icon3 from '../../assets/vantagens_icon3.svg';
 import q1 from '../../assets/q1.png';
 import q2 from '../../assets/q2.png';
+import pessoa1 from '../../assets/pessoa1.png';
+import pessoa2 from '../../assets/pessoa2.png';
+import pessoa3 from '../../assets/pessoa3.png';
+import pessoa4 from '../../assets/pessoa4.png';
+import seta_l from '../../assets/review_seta_l.svg';
+import seta_r from '../../assets/review_seta_r.svg';
 const imagens = {
   logo1,
   logo2,
@@ -21,6 +27,12 @@ const imagens = {
   v_icon3,
   q1,
   q2,
+  pessoa1,
+  pessoa2,
+  pessoa3,
+  pessoa4,
+  seta_l,
+  seta_r,
 };
 
 export default imagens;
