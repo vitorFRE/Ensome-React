@@ -11,10 +11,10 @@
 }
 
 body {
-  height: 3300px;
+  height: 6300px;
   margin: 0px;
   --Primary: #185CFF;
-  --Secondry: #002B4E;
+  --Secondary: #002B4E;
   --Tertiary: #F0F9FF;
   --Helper-blue-1: #194060;
   --Helper-blue-2: #607D94;
