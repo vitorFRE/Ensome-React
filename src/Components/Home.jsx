@@ -4,6 +4,7 @@ import Vantagens from './home/vantagens';
 import Qualidade from './home/Qualidade';
 import BlogSection from './home/BlogSection';
 import Reviews from './home/Reviews';
+import Numeros from './sections/numeros';
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Qualidade />
       <BlogSection />
       <Reviews />
+      <Numeros />
     </div>
   );
 };
