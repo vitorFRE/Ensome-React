@@ -5,7 +5,7 @@ const Numeros = () => {
   return (
     <section className={styles.numeros_bg}>
       <div className="container">
-        <ul className={styles.num}>
+        <ul className={styles.numeros}>
           <li>
             <p>1830+</p>
             <span>Projetos finalizados</span>
