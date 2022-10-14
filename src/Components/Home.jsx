@@ -5,6 +5,7 @@ import Qualidade from './home/Qualidade';
 import BlogSection from './home/BlogSection';
 import Reviews from './home/Reviews';
 import Numeros from './sections/numeros';
+import Contate from './sections/contate';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <BlogSection />
       <Reviews />
       <Numeros />
+      <Contate />
     </div>
   );
 };
