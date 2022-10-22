@@ -15,6 +15,12 @@ import pessoa3 from '../../assets/pessoa3.png';
 import pessoa4 from '../../assets/pessoa4.png';
 import seta_l from '../../assets/review_seta_l.svg';
 import seta_r from '../../assets/review_seta_r.svg';
+import behance from '../../assets/icon_behance.svg';
+import dribbble from '../../assets/icon_dribbble.svg';
+import facebook from '../../assets/icon_facebook.svg';
+import linkedin from '../../assets/icon_linkedin.svg';
+import twitter from '../../assets/icon_twitter.svg';
+import youtube from '../../assets/icon_youtube.svg';
 const imagens = {
   logo1,
   logo2,
@@ -33,6 +39,12 @@ const imagens = {
   pessoa4,
   seta_l,
   seta_r,
+  behance,
+  dribbble,
+  facebook,
+  linkedin,
+  twitter,
+  youtube,
 };
 
 export default imagens;
