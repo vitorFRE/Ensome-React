@@ -21,6 +21,7 @@ import facebook from '../../assets/icon_facebook.svg';
 import linkedin from '../../assets/icon_linkedin.svg';
 import twitter from '../../assets/icon_twitter.svg';
 import youtube from '../../assets/icon_youtube.svg';
+import check from '../../assets/check.svg';
 const imagens = {
   logo1,
   logo2,
@@ -45,6 +46,7 @@ const imagens = {
   linkedin,
   twitter,
   youtube,
+  check,
 };
 
 export default imagens;
