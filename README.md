@@ -47,7 +47,7 @@ Você pode visualizar o layout do projeto [NESSE LINK](https://www.figma.com/com
 
 ## Creditos
 
-- O layout foi feito pela strivence, um layout de use livre.
+- O layout foi feito pela strivence, um layout de uso livre.
 - Figma [@strivence](https://www.figma.com/community/file/1155073726750289516)
 - [instagram](https://www.instagram.com/teamstrivence/)
 - [dribbble](https://dribbble.com/strivence)
