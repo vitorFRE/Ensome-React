@@ -44,11 +44,11 @@ const Header = () => {
           </li>
           <li>
             <Link className={styles.nav_home_a + ' title-medium-7'} to="/">
-              Membros
+              Time
             </Link>
           </li>
           <li>
-            <Link className={styles.nav_home_a + ' title-medium-7'} to="/">
+            <Link className={styles.nav_home_a + ' title-medium-7'} to="/blog">
               Blog
             </Link>
           </li>

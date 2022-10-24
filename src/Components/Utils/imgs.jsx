@@ -22,7 +22,19 @@ import linkedin from '../../assets/icon_linkedin.svg';
 import twitter from '../../assets/icon_twitter.svg';
 import youtube from '../../assets/icon_youtube.svg';
 import check from '../../assets/check.svg';
+import blog1 from '../../assets/blog_1.png';
+import blog2 from '../../assets/blog_2.png';
+import blog3 from '../../assets/blog_3.png';
+import blog4 from '../../assets/blog_4.png';
+import blog5 from '../../assets/blog_5.png';
+import blog6 from '../../assets/blog_6.png';
 const imagens = {
+  blog1,
+  blog2,
+  blog3,
+  blog4,
+  blog5,
+  blog6,
   logo1,
   logo2,
   logo3,
