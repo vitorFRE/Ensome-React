@@ -9,7 +9,7 @@ import OurSolutions from './OurSolutions';
 
 const Solutions = () => {
   return (
-    <div className="">
+    <div>
       <Subheader HeaderTitle={'Soluções'} />
       <SobreSolutions />
       <OurSolutions />

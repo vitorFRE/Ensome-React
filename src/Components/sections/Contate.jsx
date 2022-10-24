@@ -35,7 +35,7 @@ const Contate = () => {
             <h1 className="title-exbold-3">Contacte-nos</h1>
             <form>
               <div>
-                <label>Nome</label>
+                <label className="para-semi-8">Nome</label>
                 <input className="para-semi-3" type="text" name="nome" />
               </div>
               <div>
