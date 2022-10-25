@@ -25,7 +25,7 @@ Um website com diversas paginas feito com react, totalmente responsivo.
 
 <p align="center">
   <img alt="Ensome" src="/img.png" width="100%">
-  <img alt="Ensome" src="/img_mobile.png" width="100%">
+  <img alt="Ensome" src="/img_mobile.png">
 </p>
 
 ## 🚀 Tecnologias
