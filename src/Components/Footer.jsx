@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './Footer.module.css';
 import logoblue from '../assets/logoblue.svg';
 import i from './Utils/imgs';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -14,10 +15,15 @@ const Footer = () => {
         <div className={styles.footer_infos_text}>
           <ul className="para-regular-3">
             <li className="title-bold-6">About</li>
-            <li>Home</li>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
             <li>Sobre-nos</li>
-            <li>Serviços</li>
-            <li>Soluções</li>
+            <li>
+              <Link to="/servicos">Serviços</Link>
+            </li>
+            <Link to="/solucoes">Soluções</Link>
+            <li></li>
           </ul>
           <ul className="para-regular-3">
             <li className="title-bold-6">Informações</li>
