@@ -34,7 +34,31 @@ import servicos3 from '../../assets/servicos_icon_3.svg';
 import servicos4 from '../../assets/servicos_icon_4.svg';
 import servicos5 from '../../assets/servicos_icon_5.svg';
 import servicos6 from '../../assets/servicos_icon_6.svg';
+import time_01 from '../../assets/time01.png';
+import time_02 from '../../assets/time02.png';
+import time_03 from '../../assets/time03.png';
+import time_04 from '../../assets/time04.png';
+import time_05 from '../../assets/time05.png';
+import time_06 from '../../assets/time06.png';
+import time_07 from '../../assets/time07.png';
+import time_08 from '../../assets/time08.png';
+import time_09 from '../../assets/time09.png';
+import facebook_grey from '../../assets/icon_facebook_grey.svg';
+import twitter_grey from '../../assets/icon_twitter_grey.svg';
+import linkedin_grey from '../../assets/icon_linkedin_grey.svg';
 const imagens = {
+  facebook_grey,
+  twitter_grey,
+  linkedin_grey,
+  time_01,
+  time_02,
+  time_03,
+  time_04,
+  time_05,
+  time_06,
+  time_07,
+  time_08,
+  time_09,
   servicos1,
   servicos2,
   servicos3,

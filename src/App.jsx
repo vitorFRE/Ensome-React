@@ -7,6 +7,7 @@ import Solutions from './Components/solucoes/Solutions';
 import Contatos from './Components/contatos/Contatos';
 import Blog from './Components/Blog/Blog';
 import Servicos from './Components/servicos/Servicos';
+import NossoTime from './Components/NossoTime/NossoTime';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/contatos" element={<Contatos />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/servicos" element={<Servicos />} />
+          <Route path="/nosso-time" element={<NossoTime />} />
         </Routes>
         <Footer />
       </BrowserRouter>
