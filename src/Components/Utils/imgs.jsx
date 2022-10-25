@@ -28,7 +28,19 @@ import blog3 from '../../assets/blog_3.png';
 import blog4 from '../../assets/blog_4.png';
 import blog5 from '../../assets/blog_5.png';
 import blog6 from '../../assets/blog_6.png';
+import servicos1 from '../../assets/servicos_icon_1.svg';
+import servicos2 from '../../assets/servicos_icon_2.svg';
+import servicos3 from '../../assets/servicos_icon_3.svg';
+import servicos4 from '../../assets/servicos_icon_4.svg';
+import servicos5 from '../../assets/servicos_icon_5.svg';
+import servicos6 from '../../assets/servicos_icon_6.svg';
 const imagens = {
+  servicos1,
+  servicos2,
+  servicos3,
+  servicos4,
+  servicos5,
+  servicos6,
   blog1,
   blog2,
   blog3,
