@@ -11,7 +11,7 @@ git branch -d nome //deletar branch
 <h1 align="center"> Ensome - Feito com React </h1>
 
 <p align="center">
-Um website com diversas paginas feito com react.
+Um website com diversas paginas feito com react, totalmente responsivo.
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ Um website com diversas paginas feito com react.
 
 <p align="center">
   <img alt="Ensome" src="/img.png" width="100%">
+  <img alt="Ensome" src="/img_mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,6 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://pt-br.reactjs.org/)
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
+- [ReactRouter v6](https://reactrouter.com/en/main)
 
 ## 💻 Projeto
 
