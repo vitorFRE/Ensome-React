@@ -18,7 +18,9 @@ const Footer = () => {
             <li>
               <Link to="/">Home</Link>
             </li>
-            <li>Sobre-nos</li>
+            <li>
+              <Link to="/sobre-nos">Sobre-nós</Link>
+            </li>
             <li>
               <Link to="/servicos">Serviços</Link>
             </li>
@@ -27,16 +29,19 @@ const Footer = () => {
           </ul>
           <ul className="para-regular-3">
             <li className="title-bold-6">Informações</li>
-            <li>Contatos</li>
+            <li>
+              <Link to="/contatos">contatos</Link>
+            </li>
             <li>
               <Link to="/nosso-time">Nosso time</Link>
             </li>
-            <li>Blog</li>
+            <li>
+              <Link to="/blog">Blog</Link>
+            </li>
             <li>FAQ</li>
           </ul>
           <ul className="para-regular-3">
             <li className="title-bold-6">Serviços</li>
-            <li>Paginas</li>
             <li>Menbros</li>
             <li>Mapa do site</li>
             <li>Preços</li>

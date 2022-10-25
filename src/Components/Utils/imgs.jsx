@@ -46,7 +46,23 @@ import time_09 from '../../assets/time09.png';
 import facebook_grey from '../../assets/icon_facebook_grey.svg';
 import twitter_grey from '../../assets/icon_twitter_grey.svg';
 import linkedin_grey from '../../assets/icon_linkedin_grey.svg';
+import cliente1 from '../../assets/cliente1.png';
+import cliente2 from '../../assets/cliente2.png';
+import cliente3 from '../../assets/cliente3.png';
+import cliente4 from '../../assets/cliente4.png';
+import cliente5 from '../../assets/cliente5.png';
+import cliente6 from '../../assets/cliente6.png';
+import sobre1 from '../../assets/sobre-nos1.png';
+import sobre2 from '../../assets/sobre-nos2.png';
 const imagens = {
+  sobre1,
+  sobre2,
+  cliente1,
+  cliente2,
+  cliente3,
+  cliente4,
+  cliente5,
+  cliente6,
   facebook_grey,
   twitter_grey,
   linkedin_grey,
