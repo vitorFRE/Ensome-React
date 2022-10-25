@@ -12,6 +12,7 @@
 
 body {
   margin: 0px;
+  color: var(--Black);
   --Primary: #185cff;
   --Secondary: #002b4e;
   --Tertiary: #f0f9ff;

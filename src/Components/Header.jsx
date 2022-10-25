@@ -45,9 +45,9 @@ const Header = () => {
           <li>
             <Link
               className={styles.nav_home_a + ' title-medium-7'}
-              to="/nosso-time"
+              to="/sobre-nos"
             >
-              Time
+              Sobre
             </Link>
           </li>
           <li>
