@@ -21,6 +21,8 @@ Um website com diversas paginas feito com react, totalmente responsivo.
   <a href="#Creditos">Creditos</a>
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e709584-a9de-4e48-a42b-6177ca1bbfe4/deploy-status)](https://ensome-vitor.netlify.app/)
+
 <br>
 
 <p align="center">
