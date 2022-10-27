@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './Qualidade.module.css';
 import Button from '../Utils/Button';
 import i from '../Utils/imgs';
+import { Link } from 'react-router-dom';
 
 const qualidade = () => {
   return (
@@ -17,7 +18,9 @@ const qualidade = () => {
             quae ab illo inventore veritatis et quasi architecto beatae vitae
             dicta sunt explicabo.
           </p>
-          <Button>Saiba mais</Button>
+          <Link to="/sobre-nos">
+            <Button>Saiba mais</Button>
+          </Link>
         </div>
         <div className={styles.qualidade_img}>
           <img src={i.q1} alt="dados" />
@@ -38,7 +41,9 @@ const qualidade = () => {
             quae ab illo inventore veritatis et quasi architecto beatae vitae
             dicta sunt explicabo.
           </p>
-          <Button>Saiba mais</Button>
+          <Link to="/sobre-nos">
+            <Button>Saiba mais</Button>
+          </Link>
         </div>
       </div>
     </section>

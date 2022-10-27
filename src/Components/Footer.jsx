@@ -44,9 +44,9 @@ const Footer = () => {
           </ul>
           <ul className="para-regular-3">
             <li className="title-bold-6">Serviços</li>
-            <li>Menbros</li>
-            <li>Mapa do site</li>
-            <li>Preços</li>
+            <li>
+              <Link to="/contatos">Preços</Link>
+            </li>
             <li>
               <Link to="/faq">FAQ</Link>
             </li>

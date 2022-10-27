@@ -2,6 +2,7 @@ import React from 'react';
 import Button from '../Utils/Button';
 import styles from './BlogSection.module.css';
 import tags from '../../assets/tags.svg';
+import { Link } from 'react-router-dom';
 
 const BlogSection = () => {
   return (
@@ -59,7 +60,9 @@ const BlogSection = () => {
             </li>
           </ul>
         </div>
-        <Button>Saiba mais</Button>
+        <Link to="/blog">
+          <Button>Saiba mais</Button>
+        </Link>
       </div>
     </section>
   );

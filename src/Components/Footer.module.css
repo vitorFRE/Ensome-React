@@ -11,6 +11,12 @@
   display: flex;
   gap: 120px;
 }
+.footer_infos_text a {
+  color: var(--Black);
+}
+.footer_infos_text a:hover {
+  color: var(--Primary);
+}
 .footer_infos_text li {
   margin-bottom: 10px;
   cursor: pointer;

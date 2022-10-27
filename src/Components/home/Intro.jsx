@@ -3,6 +3,7 @@ import styles from './Intro.module.css';
 import img from '../../assets/ilustração01.png';
 import Button from '../Utils/Button';
 import i from '../Utils/imgs';
+import { Link } from 'react-router-dom';
 
 const intro = () => {
   return (
@@ -19,7 +20,9 @@ const intro = () => {
             dicta sunt explicabo.
           </p>
           <div className={styles.btns}>
-            <Button>Saiba mais</Button>
+            <Link to="/sobre-nos">
+              <Button>Saiba mais</Button>
+            </Link>
             <button className={styles.button_assista + ' title-bold-6'}>
               Assista a demo
             </button>
