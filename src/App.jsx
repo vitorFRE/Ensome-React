@@ -9,11 +9,14 @@ import Blog from './Components/Blog/Blog';
 import Servicos from './Components/servicos/Servicos';
 import NossoTime from './Components/NossoTime/NossoTime';
 import SobreNos from './Components/SobreNos/SobreNos';
+import ScrollToTop from './Components/Utils/ScrollToTop';
+import Faq from './Components/Faq/Faq';
 
 function App() {
   return (
     <div>
       <BrowserRouter>
+        <ScrollToTop />
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -23,6 +26,7 @@ function App() {
           <Route path="/servicos" element={<Servicos />} />
           <Route path="/nosso-time" element={<NossoTime />} />
           <Route path="/sobre-nos" element={<SobreNos />} />
+          <Route path="/faq" element={<Faq />} />
         </Routes>
         <Footer />
       </BrowserRouter>

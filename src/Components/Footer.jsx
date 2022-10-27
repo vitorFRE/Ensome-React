@@ -38,14 +38,18 @@ const Footer = () => {
             <li>
               <Link to="/blog">Blog</Link>
             </li>
-            <li>FAQ</li>
+            <li>
+              <Link to="/faq">FAQ</Link>
+            </li>
           </ul>
           <ul className="para-regular-3">
             <li className="title-bold-6">Serviços</li>
             <li>Menbros</li>
             <li>Mapa do site</li>
             <li>Preços</li>
-            <li>FAQ</li>
+            <li>
+              <Link to="/faq">FAQ</Link>
+            </li>
           </ul>
         </div>
       </div>

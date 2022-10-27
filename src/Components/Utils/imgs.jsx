@@ -54,7 +54,11 @@ import cliente5 from '../../assets/cliente5.png';
 import cliente6 from '../../assets/cliente6.png';
 import sobre1 from '../../assets/sobre-nos1.png';
 import sobre2 from '../../assets/sobre-nos2.png';
+import mais from '../../assets/mais.svg';
+import menos from '../../assets/menos.svg';
 const imagens = {
+  mais,
+  menos,
   sobre1,
   sobre2,
   cliente1,
