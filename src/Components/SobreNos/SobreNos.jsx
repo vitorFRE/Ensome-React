@@ -6,10 +6,12 @@ import Reviews from '../home/Reviews';
 import Numeros from '../sections/numeros';
 import NossosClientes from './NossosClientes';
 import SobreNosIntro from './SobreNosIntro';
+import Head from '../Utils/Head';
 
 const SobreNos = () => {
   return (
     <div>
+      <Head title="Sobre" />
       <Subheader HeaderTitle={'Sobre Nós'} />
       <SobreNosIntro />
       <Numeros />

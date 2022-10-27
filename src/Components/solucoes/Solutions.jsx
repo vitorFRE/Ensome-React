@@ -6,10 +6,12 @@ import Contate from '../sections/Contate';
 import Inscrever from '../sections/Inscrever';
 import SobreSolutions from './SobreSolutions';
 import OurSolutions from './OurSolutions';
+import Head from '../Utils/Head';
 
 const Solutions = () => {
   return (
     <div>
+      <Head title="Soluções" />
       <Subheader HeaderTitle={'Soluções'} />
       <SobreSolutions />
       <OurSolutions />

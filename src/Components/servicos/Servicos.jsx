@@ -4,10 +4,12 @@ import Inscrever from '../sections/Inscrever';
 import Contate from '../sections/Contate';
 import Numeros from '../sections/Numeros';
 import ServicosCards from './ServicosCards';
+import Head from '../Utils/Head';
 
 const Servicos = () => {
   return (
     <div>
+      <Head title="Serviços" />
       <Subheader HeaderTitle={'Serviços'} />
       <ServicosCards />
       <Numeros />
