@@ -11,6 +11,7 @@ import NossoTime from './Components/NossoTime/NossoTime';
 import SobreNos from './Components/SobreNos/SobreNos';
 import ScrollToTop from './Components/Utils/ScrollToTop';
 import Faq from './Components/Faq/Faq';
+import NotFound from './Components/NotFound';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="/nosso-time" element={<NossoTime />} />
           <Route path="/sobre-nos" element={<SobreNos />} />
           <Route path="/faq" element={<Faq />} />
+          <Route path="/*" element={<NotFound />} />
         </Routes>
         <Footer />
       </BrowserRouter>
