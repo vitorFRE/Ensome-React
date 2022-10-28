@@ -26,31 +26,6 @@
   gap: 20px;
 }
 
-.button_assista{
-  cursor: pointer;
-  color: var(--Black);
-  background-color: transparent;
-  border: none;
-  border-radius: 6px;
-  padding: 10px 13px 10px 20px;
-  display: flex;
-  align-items: center;
-}
-
-.button_assista:hover {
-  background-color: var(--Grey);
-  transition: 2s;
-}
-
-.button_assista::before{
-  content: '';
-  display: inline-block;
-  width: 32px;
-  height: 32px;
-  background: url('../../assets/play_dark.svg') no-repeat center center;
-  margin-right: 10px;
-}
-
 .clientes {
   border-top: 1px solid var(--Background);
   margin-top: 30px;
@@ -82,18 +57,8 @@
     flex-direction: column;
     gap: 10px;
   }
-  .button_assista {
-    border: 1px solid var(--Primary);
-    justify-content: center;
-    margin-top: 10px;
+  .btns a button {
     width: 100%;
-    color: var(--Primary);
-  }
-  .button_assista::before {
-    background: url('../../assets/play_blue.svg') no-repeat center center;
-  }
-  .button_assista:hover {
-    background-color: transparent;
   }
   .i1,.i6 {
     display: none;
