@@ -19,31 +19,6 @@
   color: var(--Black);
 }
 
-.header_button button{
-  cursor: pointer;
-  color: #fff;
-  background-color: var(--Primary);
-  border: none;
-  border-radius: 6px;
-  padding: 10px 13px 10px 20px;
-  display: flex;
-}
-
-.header_button button::before {
-  content: '';
-  display: inline-block;
-  align-items: center;
-  width: 24px;
-  height: 25px;
-  background: url('../assets/play.svg') no-repeat center center;
-  margin-right: 10px;
-}
-
-.header_button button:hover {
-  background-color: #467DFF;
-  transition: .2s;
-}
-
 .mobile_button {
   background: none;
   border: none;

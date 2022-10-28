@@ -4,6 +4,7 @@ import img from '../../assets/ilustração01.png';
 import Button from '../Utils/Button';
 import i from '../Utils/imgs';
 import { Link } from 'react-router-dom';
+import Modal from '../modal/Modal';
 
 const intro = () => {
   return (
@@ -23,9 +24,7 @@ const intro = () => {
             <Link to="/sobre-nos">
               <Button>Saiba mais</Button>
             </Link>
-            <button className={styles.button_assista + ' title-bold-6'}>
-              Assista a demo
-            </button>
+            <Modal cor={'btn_black'}>Assista a demo</Modal>
           </div>
         </div>
         <div className={styles.intro_img}>
