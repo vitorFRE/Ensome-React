@@ -1,13 +1,3 @@
-git checkout -b nome // criar branch
-run
-git add -A
-git commit -m ''
-git merge main
-git push
-git checkout main // trocar branch para main
-git pull
-git branch -d nome //deletar branch
-
 <h1 align="center"> Ensome - Feito com React </h1>
 
 <p align="center">
